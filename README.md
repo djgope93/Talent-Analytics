@@ -3,6 +3,7 @@ During my time in my previous company, I saw a repeating pattern in which the or
 Analytic Approach:
 
 Driven by my interest in data analytics, I went on an analytical quest to discover insights that could improve the company's talent acquisition process. I began by analysing data from the talent acquisition team, which was collected through platforms such as Kaggle. Using statistical approaches and Python programming, I created an employee ontology file that functioned as a comprehensive repository for staff abilities and competences.
+
 Technical Skills Applied:
 
 Data Analysis: Leveraging Python and statistical methods, I dissected the talent acquisition data to identify patterns and trends in the hiring process.
