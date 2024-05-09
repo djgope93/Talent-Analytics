@@ -13,6 +13,7 @@ Python Programming: Through Python scripting, I automated the extraction and tra
 Statistical Techniques: Employing statistical methods, I conducted robust analyses to derive actionable insights from the data, informing strategic decisions.
 
 Ontology Development: Utilizing my expertise in data science, I constructed an employee ontology file, categorizing and cataloging employee skills and qualifications.
+
 Outcome:
 
 By combining my technical expertise with a thorough understanding of organisational dynamics, I hoped to bridge the gap between talent acquisition and internal skill utilisation. My effort highlighted not just my devotion to process optimisation, but also my ability to apply new solutions to real-world problems.
